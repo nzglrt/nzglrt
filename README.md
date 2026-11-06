@@ -1,6 +1,6 @@
 # Hi, I'm Enzo 👋
 
-Not a developer. Just a guy who occasionally gets curious, bored, or annoyed enough to start building things.
+Not a developer. Just a guy who occasionally gets curious, bored, or annoyed enough to start building/fixing things.
 
 ### About me
 
@@ -13,7 +13,7 @@ Not a developer. Just a guy who occasionally gets curious, bored, or annoyed eno
 
 - **Feedr** — An RSS feed reader, because apparently reading the news wasn't complicated enough.
 - **ESP32 & Electronics** — Finding new ways to make simple things unnecessarily complicated.
-- **Small tools & scripts** — Automating things that probably would've taken less time to do manually, or things I probably shouldn't have tampered with in the first place but somehow survived (Yep, looking at you <span style="background-color: #000; color: #000;">OmniPDV</span>).
+- **Small tools & scripts** — Automating things that probably would've taken less time to do manually, or things I probably shouldn't have tampered with in the first place but somehow survived (Yep, looking at you <img src="https://img.shields.io/badge/OmniPDV-000000?style=flat-square&labelColor=000000&color=000000" alt="REDACTED">).
 
 ---
 
