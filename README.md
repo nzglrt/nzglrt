@@ -1,4 +1,6 @@
-![Dark Ocean Banner](./assets/image.png)
+<p align="center">
+  <img src="./assets/banner.png" alt="GitHub Profile Banner">
+</p>
 
 ### About me <img src="/assets/title1.png" width="25"/>
 
