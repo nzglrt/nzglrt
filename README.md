@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Enzo's Profile Banner">
+  <img src="assets/a.png" width="100%" height="320" style="object-fit: cover; object-position: center;" alt="Profile Banner">
 </p>
 
 ### About me
