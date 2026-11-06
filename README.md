@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="assets/a.png" width="100%" height="320" style="object-fit: cover; object-position: center;" alt="Profile Banner">
-</p>
+![Dark Ocean Banner](https://raw.githubusercontent.com/nzglrt/nzglrt/main/image.png)
 
-### About me
+### About me <img src="/assets/title1.png" width="25"/>
 
 - No formal expertise, just curiosity and questionable amounts of free time (or poor time management and unhealthy sleep schedules).
 - I build random stuff because I want to see if I can.
