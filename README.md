@@ -1,4 +1,4 @@
-![Dark Ocean Banner](https://raw.githubusercontent.com/nzglrt/nzglrt/main/image.png)
+![Dark Ocean Banner](./assets/image.png)
 
 ### About me <img src="/assets/title1.png" width="25"/>
 
@@ -7,7 +7,7 @@
 - Sometimes it's a fun idea. Sometimes it's boredom. Sometimes something annoys me enough that I decide to fix it myself.
 - Usually figuring things out as I go. Occasionally even succeeding.
 
-### Things I've messed around with
+### Things I've messed around with <img src="/assets/title2.png" width="25"/>
 
 - **Feedr** — An RSS feed reader, because apparently reading the news wasn't complicated enough.
 - **ESP32 & Electronics** — Finding new ways to make simple things unnecessarily complicated.
