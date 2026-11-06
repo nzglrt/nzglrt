@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Enzo 👋
 
-<!--
-**nzglrt/nzglrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Not a developer. Just a guy who occasionally gets curious, bored, or annoyed enough to start building things.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- No formal expertise, just curiosity and questionable amounts of free time (or poor time management and unhealthy sleep schedules).
+- I build random stuff because I want to see if I can.
+- Sometimes it's a fun idea. Sometimes it's boredom. Sometimes something annoys me enough that I decide to fix it myself.
+- Usually figuring things out as I go. Occasionally even succeeding.
+
+### Things I've messed around with
+
+- **Feedr** — An RSS feed reader, because apparently reading the news wasn't complicated enough.
+- **ESP32 & Electronics** — Finding new ways to make simple things unnecessarily complicated.
+- **Small tools & scripts** — Automating things that probably would've taken less time to do manually, or things I probably shouldn't have tampered with in the first place but somehow survived (Yep, looking at you <span style="background-color: #000; color: #000;">OmniPDV</span>).
+
+---
+
+*No grand plans. Just curiosity, mild frustration, and questionable decisions.*
