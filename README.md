@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" width="100%" height="320" style="object-fit: cover; object-position: center;" alt="Profile Banner">
+</p>
+
 # Hi, I'm Enzo 👋
 
 Not a developer. Just a guy who occasionally gets curious, bored, or annoyed enough to start building/fixing things.
