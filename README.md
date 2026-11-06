@@ -11,6 +11,7 @@
 
 - **Feedr** — An RSS feed reader, because apparently reading the news wasn't complicated enough.
 - **ESP32 & Electronics** — Finding new ways to make simple things unnecessarily complicated.
+- **Linux Ricing** — Wanted to add my cats as virtual pets. Did it. Turns out they're just as lazy as the real ones.
 - **Small tools & scripts** — Automating things that probably would've taken less time to do manually, or things I probably shouldn't have tampered with in the first place but somehow survived (Yep, looking at you <img src="https://placehold.co/75x18/000000/000000.png" alt="REDACTED">).
 
 ---
